@@ -1,3 +1,2 @@
-*.csv
-*.icloud
-/Data
+.DS_Store
+.vscode
